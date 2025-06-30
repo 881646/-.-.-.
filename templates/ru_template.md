@@ -1,0 +1,7 @@
+# {{TITLE}}
+
+## {{INTRODUCTION}}
+
+{{BODY}}
+
+## {{EMERGENCY_CONTACTS}}
